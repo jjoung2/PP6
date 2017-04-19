@@ -2,6 +2,7 @@
                 background-color: blue;
                 position: relative;
                 overflow: hidden;
+                width:100%;
 }
 #navbar-container{
                     position: relative;
