@@ -22,3 +22,8 @@
             right:0%;
             position: fixed;
 }        
+#sidebar-container {
+                      text-decoration: none;
+                      text-align: center;
+                      color: #fff;
+}                    
