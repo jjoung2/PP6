@@ -35,10 +35,11 @@
 #sidebar ul {
               padding: 0;
               display: block;
+              list-style-type: none;  
 } 
 #sidebar ul li {  
                 padding: 15px 0;
-                list-style-type: none;
+                
 }  
   
 #navbar-container ul {
