@@ -59,11 +59,11 @@
                           float: left;
 }                       
   
-#navbar-container a {
+#sidebar-container a {
                       color: #fff;
                       text-decoration: none;
 }
 
-#navbar-container a:active {
+#sidebar-container a:active {
                               background-color: #000;
 }
