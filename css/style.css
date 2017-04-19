@@ -58,3 +58,11 @@
                           float: left;
 }                       
   
+#navbar-container a {
+                       text-decoration: none;
+                       color: #fff;
+}
+#navbar-container a:active {
+                              background-color: #000;
+}
+                                
