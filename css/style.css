@@ -3,3 +3,8 @@
                 position: relative;
                 overflow: hidden;
 }
+#navbar-container{
+                    position: relative;
+                    float: left;
+                    left:50%;
+}
