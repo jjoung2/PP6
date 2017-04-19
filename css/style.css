@@ -27,3 +27,7 @@
                       text-align: center;
                       color: #fff;
 }                    
+
+#sidebar-container a:active{
+                              background-color: #000;
+}
