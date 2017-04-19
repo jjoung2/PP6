@@ -3,6 +3,8 @@
                 position: relative;
                 overflow: hidden;
                 width: 100%;
+                text-align: center;
+                text-decoration: none;
 }
 #navbar-container{
                     position: relative;
@@ -12,7 +14,7 @@
 
 #onepage a {    
               text-decoration: underline overline;
-              display:block;  
+               
 }
 
 
