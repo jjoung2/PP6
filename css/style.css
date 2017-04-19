@@ -22,7 +22,7 @@
             right:0%;
             position: fixed;
 }        
-#sidebar-container {
+#sidebar-container a {
                       text-decoration: none;
                       text-align: center;
                       color: #fff;
@@ -43,5 +43,15 @@
                 list-style-type: none;
 }  
   
-  
+#navbar-container ul {
+                       list-style-type: none;
+                       position: relative;
+                       padding: 0;
+                       margin: 0; 
+                       float: left;
+                       right: 50%;
+                       display: block;   
+}
+                        
+                        
   
