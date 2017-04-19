@@ -58,11 +58,3 @@
                           float: left;
 }                       
   
-#sidebar-container a {
-                      color: #fff;
-                      text-decoration: none;
-}
-
-#sidebar-container a:active {
-                              background-color: #000;
-}
