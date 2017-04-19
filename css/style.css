@@ -1,3 +1,5 @@
 #main-navbar{
                 background-color: blue;
+                position: relative;
+                overflow: hidden;
 }
