@@ -31,3 +31,17 @@
 #sidebar-container a:active{
                               background-color: #000;
 }
+
+#sidebar ul {
+              padding: 0;
+              display: block;
+              position: relative;
+ 
+} 
+#sidebar ul li {  
+                padding: 15px 0;
+                list-style-type: none;
+}  
+  
+  
+  
