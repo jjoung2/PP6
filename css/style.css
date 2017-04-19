@@ -12,6 +12,7 @@
 
 #onepage a {    
               text-decoration: underline overline;
+              display:block;  
 }
 
 
